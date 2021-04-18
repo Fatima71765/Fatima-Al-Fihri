@@ -1,2 +1,2 @@
-# Photography
-New tutorials for amazing and beautiful photography everyday
+# Fatima-Al-Fihri
+An amazing woman who is the wonder woman of studies

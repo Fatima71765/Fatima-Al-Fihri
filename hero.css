@@ -1,0 +1,25 @@
+html, body{
+    font-family: sans-serif;
+    padding: 0;
+}	
+
+header{
+    background-color: #4d94ff;
+    padding: 40px;
+    text-align: center;
+}
+
+h1{
+   font-size: 90px;
+   color: pink;	   
+}
+
+header img{
+	border-radius: 150px;
+	width:300px;
+	border:10px solid #ffff99;
+}	
+ /*<header>
+            <img class="big-image" src="profile.jpg">
+            <h1 style="font-color: blue;font-size:90 px;">Wonder Woman of Studies:Fatima-Al-Fihri</h1>
+        </header>*/
