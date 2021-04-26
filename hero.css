@@ -1,15 +1,23 @@
+html, body{
+    font-family: sans-serif;
+    padding: 0;
+}	
+
 header{
     background-color: #00004C;
     padding: 40px;
+    text-align: center;
 }
 
 h1{
-   font-size: 90px;   
+   font-size: 90px;
+   color: purple;	   
 }
 
 header img{
 	border-radius: 150px;
-	
+	width:300px;
+	border:10px solid #ffff99;
 }	
  /*<header>
             <img class="big-image" src="profile.jpg">
