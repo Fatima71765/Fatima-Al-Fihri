@@ -1,2 +1,2 @@
 # Photography
-New tutorials for amazing and beautiul photography everyday
+New tutorials for amazing and beautiful photography everyday
